@@ -14,10 +14,19 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 ## General analysis 
 
-**ALINE**
 
-### Awards vs Revenue
-Ajouter analysis
+
+### How do rating and revenue vary as a function of the genre?
+
+### Which relation between the screen time and the opportunity to win an award?
+
+### What is the relation between being awarded and revenues?
+### What is the relationship between ratings and profit?
+
+### How does the movie rating distribution vary across continents?
+### How does the box office profit distribution vary across the continents?
+
+
 
 
 - What is the relation between revenues and being awarded?
